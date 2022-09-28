@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "sinema_bufe_satis/1.0.0": {
+        "runtime": {
+          "sinema_bufe_satis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sinema_bufe_satis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
